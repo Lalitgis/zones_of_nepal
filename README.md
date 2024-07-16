@@ -17,8 +17,6 @@ The repository includes two sets of shapefiles:
 1. **Older Map of Nepal** - Based on geographical delineations before May 20, 2020.
 2. **Updated Map of Nepal** - Reflecting the most recent geographical updates, including Kalapani, Limpiyadhura, and Lipulekh as Nepali territories, which increased Nepal's total area to 147,516 square kilometers. This map was updated by the Government of Nepal on May 20, 2020. 
 
-You are free to choose and utilize the version that best fits your needs.
-
 ## Usage
 
 To use these shapefiles, simply download the files from the repository. They can be integrated into various GIS applications for your spatial analysis and mapping projects.
